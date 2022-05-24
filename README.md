@@ -1,2 +1,0 @@
-# Basic of python
- 
